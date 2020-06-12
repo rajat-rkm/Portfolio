@@ -2,7 +2,7 @@
 @import url(./fonts.css);
 /* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,300&display=swap'); */
 /* css variable */
-@import url(./partials/_variables.css);
+@import url(./partials/variables.css);
 /* import global file */
 @import url(./partials/global.css);
 /* start navigation */
